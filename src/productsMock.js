@@ -37,4 +37,6 @@ export const products =  [
         img: "https://stylewatchio.vtexassets.com/arquivos/ids/229938-500-auto?v=1775239341&width=500&height=auto&aspect=true"
     }
     
+    
+    
 ]
